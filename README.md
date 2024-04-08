@@ -1,4 +1,3 @@
-
 <h2 align="left">Hello, I'm Giulia Lanari</h2>
 
 ###
@@ -8,6 +7,10 @@
 ###
 
 <p align="left">🚩 I’m currently learning Full-Stack Developer - courses Digichamps Epicode</p>
+
+###
+
+<p align="left">🖥️ Le mie Competenze : <br>- HTML, CSS, JavaScript <br>- Sass e Bootstrap <br>- React <br>- Git e GitHub Desktop <br>- Node.js<br>- TypeScript<br>- Redux</p>
 
 ###
 
@@ -31,7 +34,7 @@
 
 ###
 
-<p align="left">About me: <br>I think, I'm a sunny person and I  like to learn new things. I always try to create an atmosphere of serenity in the environment in which I work, but especially with colleagues. I have had experiences working abroad that have helped me to grow both on the personal and on the working level. I am a very precise and organized person, so in the jobs I did I always held a role of manager, thanks to which I could organize the work of other people and make everything more functional. I consider myself a very friendly person and if you see someone in trouble I always try to help, even at work I always try to help my colleagues in order to get a better result. My past work has helped me to understand customer demand faster and meet and satisfy more efficiently. I’m someone who likes to listen to other people’s opinions without saying a priori that it’s wrong just because it’s different from mine.</p>
+<p align="left">About me: <br>I think, I'm a sunny person and I  like to learn new things. I always try to create an atmosphere of serenity in the environment in which I work, but especially with colleagues. I have had experiences working abroad that have helped me to grow both on the personal and on the working level. I am a very precise and organized person, so in the jobs I did I always held a role of manager, thanks to which I could organize the work of other people and make everything more functional. I consider myself a very friendly person and if I see someone in trouble I always try to help, even at work I always try to help my colleagues in order to get a better result. My past work has helped me to understand customer demand faster and meet and satisfy more efficiently. I’m someone who likes to listen to other people’s opinions without saying a priori that it’s wrong just because it’s different from mine.</p>
 
 ###
 
