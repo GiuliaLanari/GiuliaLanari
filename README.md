@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Giulia Lanari</h2>
+<h2 align="left">Hello, I'm Giulia </h2>
 
 ###
 
