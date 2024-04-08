@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️ My Skills :</p>
+<p align="center">🖥️ My Skills :</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">About me:</h3>
+<h3 align="center">About me:</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">My Stats:</h3>
+<h3 align="center">My Stats:</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">Contact :</h3>
+<h3 align="center">Contact :</h3>
 
 ###
 
