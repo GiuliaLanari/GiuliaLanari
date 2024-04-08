@@ -1,6 +1,3 @@
-<img align="left" height="100" src="https://avatars.githubusercontent.com/u/156693945?v=4"  />
-
-###
 
 <h2 align="left">Hello, I'm Giulia Lanari</h2>
 
