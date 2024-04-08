@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">I think, I'm a sunny person and I  like to learn new things. I always try to create an atmosphere of serenity in the environment in which I work, but especially with colleagues. I have had experiences working abroad that have helped me to grow both on the personal and on the working level. I am a very precise and organized person, so in the jobs I did I always held a role of manager, thanks to which I could organize the work of other people and make everything more functional. I consider myself a very friendly person and if I see someone in trouble I always try to help, even at work I always try to help my colleagues in order to get a better result. My past work has helped me to understand customer demand faster and meet and satisfy more efficiently. I’m someone who likes to listen to other people’s opinions without saying a priori that it’s wrong just because it’s different from mine.</p>
+<p align="left">I think, I'm a sunny person and I  like to learn new things. I am attending a training course, my dream is to work as a Front-end and be able to give life to the ideas of customers/ companies!!</p>
 
 ###
 
