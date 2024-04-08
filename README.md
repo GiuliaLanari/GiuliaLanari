@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">I think, I'm a sunny person and I  like to learn new things. I am attending a training course, my dream is to work as a Front-end and be able to give life to the ideas of customers/ companies!!</p>
+<p align="left" align="center">I think, I'm a sunny person and I  like to learn new things. I am attending a training course, my dream is to work as a Front-end and be able to give life to the ideas of customers/ companies!!</p>
 
 ###
 
