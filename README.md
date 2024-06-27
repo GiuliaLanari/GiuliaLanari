@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">- HTML, CSS, JavaScript <br>- Sass e Bootstrap <br>- React <br>- Git e GitHub Desktop <br>- Node.js<br>- TypeScript<br>- Redux</p>
+<p align="center">- HTML, CSS, JavaScript <br>- Sass e Bootstrap <br>- React <br>- Git e GitHub Desktop <br>- Node.js<br>- TypeScript<br>- Redux <br> - PHP <br> - Laravel <br> - Word Press</p>
 
 ###
 
