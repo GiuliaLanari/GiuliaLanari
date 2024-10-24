@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🚩 I’m currently learning Full-Stack Developer - courses Digichamps Epicode</p>
+<p align="center">🚩 I’m a Full-Stack Developer - courses Digichamps Epicode</p>
 
 ###
 
